@@ -14,3 +14,9 @@ Check out this demo on the asset library: https://godotengine.org/asset-library/
 ## Screenshots
 
 ![Screenshot](screenshots/nav.png)
+
+## Controls
+
+- Left click to tell the character to move.
+- Right click to add or remove a cylinder to the navmesh and rebake it.
+- Middle click to rotate the camera
